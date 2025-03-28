@@ -8,4 +8,8 @@ then enter the correct letters as follows:
 then enter the incorrect letters
 
 
-Also included is the word list, as well as a script to scrape https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki for words
+Also included are the word list(s) `master.txt` and `merge.txt`
+
+ as well as a `wikiScrapeScript.js` to scrape https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki for words
+
+`genshin.js` is a script to take some words from https://github.com/theBowja/genshin-db 
