@@ -1,7 +1,9 @@
 Takes hangman hints and searches for words that match.
-Uses words from the game Genshin Impact
+Uses words from the hit game Genshin Impact
 
-first enter the correct letters as follows:
+to start: run `node find_word.js`
+
+then enter the correct letters as follows:
 `_ a _ b _ c`
 then enter the incorrect letters
 
