@@ -1,0 +1,2 @@
+// A script to scrape words from genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki
+console.log(Array.from(document.getElementsByClassName("category-page__member-link")).map((element)=>element.innerText.replaceAll('"', "").replaceAll("Category:","")).join('\n'))
